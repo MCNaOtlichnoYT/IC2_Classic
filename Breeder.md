@@ -14,7 +14,9 @@ Set filtered extraction tube to re-enriched rods. CC Monitor isn't connected to 
 
 One point of durability from uranium rod adds 44 points to each isotopic rod. 
 
-CC Computer isn't really necessary, it is just used to make sure that all 4 rods are ready to be enriched (in facts it checks bottom one because it's the last one to be inputted/outpputted). Without
+CC Computer isn't really necessary, it is just used to make sure that all 4 rods are ready to be enriched (in facts it checks bottom one because it's the last one to be inputted/outpputted). Without it efficiency will be only a bit lower.
+
+And yes, software does not support having 4 different types of isotopic rods being bred at the same time (anyway depleted rods are crafted in batches of 8, which is dividable by 4).
 
 CC Computer program:
 
