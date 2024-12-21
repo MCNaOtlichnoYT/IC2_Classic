@@ -14,7 +14,7 @@ Set filtered extraction tube to re-enriched rods. CC Monitor isn't connected to 
 
 CC Computer program:
 
-'''lua
+'''Lua
 
 reactor = peripheral.wrap("left")
 while 1 do
