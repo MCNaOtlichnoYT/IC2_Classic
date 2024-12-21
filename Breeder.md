@@ -15,6 +15,7 @@ Set filtered extraction tube to re-enriched rods. CC Monitor isn't connected to 
 CC Computer program:
 
 '''lua
+
 reactor = peripheral.wrap("left")
 while 1 do
     fuelrod = reactor.getItemDetail(11)
@@ -50,4 +51,5 @@ while 1 do
     redstone.setAnalogOutput('left', state)
     sleep(0.5)
 end
+
 '''
