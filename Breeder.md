@@ -12,6 +12,10 @@ Reactor setup
 
 Set filtered extraction tube to re-enriched rods. CC Monitor isn't connected to anything.
 
+One point of durability from uranium rod adds 44 points to each isotopic rod. 
+
+CC Computer isn't really necessary, it is just used to make sure that all 4 rods are ready to be enriched (in facts it checks bottom one because it's the last one to be inputted/outpputted). Without
+
 CC Computer program:
 
     reactor = peripheral.wrap("left")
